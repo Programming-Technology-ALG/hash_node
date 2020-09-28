@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexgiving/CLionProjects/hash_node/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+time.h
+-
+math.h
+-
+
